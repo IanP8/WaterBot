@@ -1,0 +1,10 @@
+<manifest>
+    <main-class>com.zlatanosrs.bots.water_bowl_bot.WaterBot</main-class>
+    <name>Water Bot</name>
+    <tag-line>A very basic bot</tag-line>
+    <description>This is a bot to fill bowls up with water at Lumbridge Only.</description>
+    <version>1.0.0</version>
+    <categories>
+        <category>MONEY_MAKING</category>
+    </categories>
+</manifest>
